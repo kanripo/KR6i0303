@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:15:53.940370
+#+DATE: 2015-08-30 20:15:59.700589
 #+TITLE: 金光明最勝王經
 #+PROPERTY: CBETA_ID T16n0665
 #+PROPERTY: ID KR6i0303
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 665
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0303_T_002-0408b> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《金光明最勝王經》卷第二¶
+《金光明最勝王經》卷第二¶
 ¶
 大唐三藏沙門義淨奉　制譯¶
 
-3分別三身品(二)
-:PROPERTIES:
-:head: 分別三身品第三
-:END:
-¶
+分別三身品第三¶
 
 爾時，虛空藏菩薩摩訶薩，在大眾中從座而¶
 起，偏袒右肩，右膝著地，合掌恭敬，頂禮佛¶
@@ -302,11 +297,7 @@
 哉！善男子！如是！如是！汝等應當勤心流布¶
 此妙經王，則令正法久住於世。」¶
 
-4夢見金鼓懺悔品(二)
-:PROPERTIES:
-:head: 《金光明最勝王經》夢見金鼓懺悔品第四
-:END:
-¶
+《金光明最勝王經》夢見金鼓懺悔品第四¶
 
 爾時，妙幢菩薩親於佛前聞妙法已，歡喜¶
 踊躍，一心思惟，還至本處。於夜夢中見大¶
