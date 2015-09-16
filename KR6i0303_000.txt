@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金光明最勝王經
+#+DATE: 2015-08-30 20:15:54.476107
+#+PROPERTY: JUAN 0
